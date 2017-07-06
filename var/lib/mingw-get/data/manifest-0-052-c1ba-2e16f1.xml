@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-052-c1ba-2e16f1">
+    <release tarname="liblzma-4.999.9beta_20100401-1-mingw32-dll-1.tar.bz2" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <file path="bin/liblzma-1.dll" />
+    </manifest>
+</package>
